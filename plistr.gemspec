@@ -14,4 +14,5 @@ Gem::Specification.new do |gem|
   gem.version       = Plistr::VERSION
 
   gem.add_dependency 'nokogiri'
+  gem.add_development_dependency 'rake'
 end
